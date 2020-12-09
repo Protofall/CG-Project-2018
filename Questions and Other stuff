@@ -1,0 +1,13 @@
+Questions:
+	- How to fix skybox example (Done. Can render skybox first or last, but need to change the depth test depending on when we draw)
+	- Why is my keyboard controls so...weird? (They have lag and ghost effects)
+	- Loading textures and texture slots (Should have multiple slots instead of just switching textures in one slot)
+	- Course doesn't have a shadow mapping example, look online and see how hard it is
+
+	- Correct way to light based on distance
+
+
+
+//Note, since I'm constantly swapping out textures it will be slower. Its best to give a slot to each texture
+
+//Collision bug: Walking against a wall and transitioning to a new hitbox prevents you from walking there (Try walk against wall and moving block) (Can't re-create consistently...)
