@@ -1,3 +1,11 @@
+# IMPORTANT
+
+This repo is no longer active, instead I have moved to gitlab. Therefore I will no longer be updating this repository.
+
+To get the latest changes, go to: https://gitlab.com/Protofall/CG-Project-2018
+
+-----------------------------------------
+
 # OpenGL Project
 
 These are the controls for this openGL program
